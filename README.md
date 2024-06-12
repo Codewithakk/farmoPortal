@@ -1,8 +1,3 @@
-﻿# farmoPortal
-Certainly! Here's a sample README for your project "FarmoPortal" which is a portal for farmers where they can purchase items, see crops for different seasons, etc., built using the MERN stack (MongoDB, Express.js, React.js, Node.js).
-
----
-
 # FarmoPortal
 
 FarmoPortal is a comprehensive platform designed specifically for farmers. It allows farmers to purchase farming equipment and supplies, view information about different crops for various seasons, and much more. Built using the MERN stack (MongoDB, Express.js, React.js, Node.js), FarmoPortal aims to empower farmers with the information and tools they need to succeed.
